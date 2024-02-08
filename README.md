@@ -31,7 +31,7 @@ docker-compose up -d
 
 # Notebook:
 
-After setting up the environment you can check the Jupyter notebook for running the pipe:
+After setting up the environment you can check the [Jupyter notebook](https://github.com/mahmudnahid/Hadoop-Spark-BigDataPipe/blob/main/jupyter/workspace/hadoop_spark_pipeline.ipynb) for running the pipe:
 
 ![Notebook](./assets/3_notebook.JPG?raw=true "Setup")
 
